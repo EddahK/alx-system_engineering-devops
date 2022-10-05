@@ -1,3 +1,2 @@
 #!/bin/bash
-file -f /tmp/iamfile
 file -f ls -la /tmp/iamfile
