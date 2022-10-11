@@ -1,3 +1,2 @@
 #!/bin/bash
-Hello, World
-shell redirections
+echo "Hello, World"
